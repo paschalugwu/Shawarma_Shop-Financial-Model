@@ -15,6 +15,7 @@ As a freelancer specializing in financial modeling and analysis, I've crafted th
   - [Revenue Projections](#revenue-projections)
   - [Operating Expenses](#operating-expenses)
   - [Seasonality Factors](#seasonality-factors)
+  - [Scenario Analysis](#scenario-analysis)
 - [Financial Statements](#financial-statements)
   - [Income Statement](#income-statement)
   - [Balance Sheet](#balance-sheet)
@@ -79,6 +80,20 @@ Operational assumptions regarding business days and expected fluctuations:
 
 - **Monthly Business Days:** Adjusted per month to reflect holidays and weekends.
 - **Seasonal Adjustments:** Sales volume projections account for seasonal trends and peak periods to ensure realistic forecasting.
+
+### Scenario Analysis
+
+I believe that the main drivers of profitability for the shop will be the average number of wraps sold per day and the rent paid. To account for potential variations, I've implemented a scenario analysis:
+
+- **Worst-Case Scenario:**
+  - Reduce wraps sold per day by 20 wraps.
+  - Increase rent by 10%.
+
+- **Best-Case Scenario:**
+  - Increase wraps sold per day by 20 wraps.
+  - Reduce rent by 10%.
+
+These scenarios help gauge the financial impact of changes in key business drivers, ensuring robust planning and risk management.
 
 ## Financial Statements
 
