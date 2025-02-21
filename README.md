@@ -157,7 +157,7 @@ As a dedicated freelancer in financial modeling, I bring precision, expertise, a
 
 - **Email:** [ugwupaschal@gmail.com](mailto:ugwupaschal@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/paschal-ugwu)
-- **GitHub Portfolio:** [github.com/financialmodeler](https://github.com/paschalugwu/Shawarma_Shop-Financial-Model)
+- **GitHub Portfolio:** [Github Link](https://github.com/paschalugwu/Shawarma_Shop-Financial-Model)
 
 ---
 
